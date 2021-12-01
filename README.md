@@ -1,6 +1,6 @@
 ### *Bem Vindo(a) ao meu perfil* 👋
 
-- ***🔭 Estundante de Java, C++ e Python***
+- ***🔭 Estundante de Java, C++ e Python and SQL Services***
 
 <div align="center">
   <a href="https://github.com/ArielMcR">
