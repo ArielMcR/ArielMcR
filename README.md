@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738125668843520010/899095559011463234/7a102c939fd239aa.png">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/jujutsu-kaisen-jujutsu-kaisen-dance-dance-gif-18755157">
 </div>
 
 
