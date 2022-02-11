@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <div class="tenor-gif-embed" data-postid="18755157" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jujutsu-kaisen-jujutsu-kaisen-dance-dance-gif-18755157">Jujutsu Kaisen Jujutsu Kaisen Dance GIF</a>from <a href="https://tenor.com/search/jujutsu+kaisen-gifs">Jujutsu Kaisen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img align="right" alt="Rafa-pic" height="150" style="https://cdn.discordapp.com/attachments/562450872370593814/940796238285119548/42fa941d17d75573c9a27cc37cc074e1.png">
 </div>
 
 
