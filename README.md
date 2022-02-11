@@ -11,8 +11,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img align="right" alt="Rafa-pic" height="150" style="https://cdn.discordapp.com/attachments/562450872370593814/940796238285119548/42fa941d17d75573c9a27cc37cc074e1.png">
+  <img align="right" alt="Rafa-Csharp" height="150" width="180" src="https://tenor.com/view/jujutsu-kaisen-jujutsu-kaisen-dance-dance-gif-18755157.gif">
+
+ 
 </div>
 
 
