@@ -1,4 +1,4 @@
-### *Bem Vindo(a) ao meu perfil* 👋
+### *Welcome to my profile* 👋
 
 - ***🔭 Estundante de Java, Python e BD***
 
