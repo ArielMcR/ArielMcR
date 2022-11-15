@@ -1,7 +1,6 @@
 ### *Welcome to my profile* 👋
 
 - ***🔭 Estundante de Java, Python e MySQL***
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <div align="center">
   <a href="https://github.com/ArielMcR">
@@ -15,6 +14,8 @@
   <img align="center" alt="Csharp" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Csharp" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
+
+<img align="left" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 
