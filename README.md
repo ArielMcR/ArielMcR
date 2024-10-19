@@ -1,26 +1,37 @@
 ### *Welcome to my profile* 👋
 
-- ***🔭 Estundante de Java, JavaScript e MySQL***
+- 🔭 **Estudante de Java, JavaScript e MySQL**
+
+### 👨‍💻 Sobre mim
+- 💡 Apaixonado por tecnologia, programação e sempre em busca de aprender novas habilidades.
+- 🎓 Atualmente estudando Java, JavaScript e MySQL.
+- 🌱 Interessado em desenvolvimento FullStack e mobile
 
 <div align="center">
   <a href="https://github.com/ArielMcR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielMcR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucaspinheiro&layout=compact&langs_count=7&theme=dark"/>
-    <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielMcR&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<br>
 
-<!-- <div style="display: inline_block"><br>
-  <img align="left" width="300" src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" /> 
-  <br>
-  <img align="center" alt="Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Python" height="100" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Csharp" height="100" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+<div align="center">
+  <img width="300" src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" /> 
 </div>
- -->
 
+<br>
 
+### 💬Contatos
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Email](mailto:seu-email@example.com)
 
-
+### 📜 Certificações e Cursos
+- Certificação em Desenvolvimento JavaScript pela [B7WEB](https://lp.b7web.com.br)
+- Curso de API REST com Node.js e Express pela [Udemy](https://www.udemy.com/)
+- Fundamentos de MySQL e SQL pela [Udemy](https://www.udemy.com/)
+### 🛠️ Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
