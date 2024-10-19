@@ -22,7 +22,7 @@
 <br>
 
 ### 💬Contatos
-- [LinkedIn](www.linkedin.com/in/arielmrodrigues)
+- [LinkedIn](https://www.linkedin.com/in/arielmrodrigues/)
 - [Email](mailto:arielmachador3@gmail.com)
 
 ### 📜 Certificações e Cursos
