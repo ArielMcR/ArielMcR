@@ -22,8 +22,8 @@
 <br>
 
 ### 💬Contatos
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Email](mailto:seu-email@example.com)
+- [LinkedIn](www.linkedin.com/in/arielmrodrigues)
+- [Email](mailto:arielmachador3@gmail.com)
 
 ### 📜 Certificações e Cursos
 - Certificação em Desenvolvimento JavaScript pela [B7WEB](https://lp.b7web.com.br)
